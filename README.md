@@ -7,3 +7,4 @@ Contact number and supplied logo are from the user. The copy is proposed website
 The three selected Unsplash photos are explicitly described as inspiration, with photographer links in the footer. Replace these with approved business photos when supplied. The provided logo is preserved without modification in `dist/images/siva-logo.png`.
 
 Calls and SMS use native phone links. No visitor details are collected and no enquiry submission backend is implied.
+The header and footer use siva-logo-designed.png, created with the built-in image generation tool from the supplied screenshot. Prompt: recreate the timber-frame symbol with an elegant SIVA / CARPENTERS serif wordmark, charcoal and restrained brass accents, transparent background, compact horizontal lockup, no phone number or mockup.
