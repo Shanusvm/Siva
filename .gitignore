@@ -1,0 +1,5 @@
+photo-review/
+review_photos.py
+select-photos.py
+update-projects.cjs
+*.tar.gz
